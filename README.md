@@ -1,69 +1,97 @@
-# 👋 Hi, I'm Mounika Gowru
 
-🎯 *Analog & Mixed-Signal Layout Engineer* | 🏆 5 Years at NVIDIA | 💡 Passionate About Precision IC Design
+# 👋 Hi, I'm Mounika G
 
----
-
-## 📊 About Me  
-
-I am an *Analog & Mixed-Signal Layout Engineer* with approximately **5 years of experience** at NVIDIA, specializing in advanced node CMOS layout design. My work focuses on precision analog circuit integration, RTL collaboration, parasitic extraction, and automated layout verification—delivering high-performance, manufacturable IC solutions.
-
-📍 Hyderabad, India  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gouru-mounika-b69642a7) | [GitHub](#) *(optional)*
+🎯 *Full‑Stack Java Developer* | ☁️ *AWS Certified Solutions Architect* | 🔁 *Microservices & DevOps Enthusiast*
+📍 Open to relocation | 📧 [mounikag09876@gmail.com](mailto:mounikag09876@gmail.com) | ☎️ 901‑902‑8869
+🔗 [LinkedIn](#) | [GitHub](#) *(optional)*
 
 ---
 
-## 🎓 Education  
+## 📊 About Me
 
-🎓 *B.Tech. in Electronics & Communication Engineering* | Jawaharlal Nehru Technological University, Hyderabad — **2023** :contentReference[oaicite:1]{index=1}
+I’m an experienced **Full‑Stack Java Developer** with 3+ years of proven success in building scalable, secure, and user-centric web applications. I bring end-to-end development expertise, from UI with Angular/React to backend with Java/Spring Boot and microservices architecture.
 
----
-
-## 🛠 Skills & Tools  
-
-| *Category*           | *Skills* |
-|----------------------|----------|
-| **Analog Layout**     | CMOS layout, parasitic-aware floorplanning, DRC/LVS |
-| **Mixed‑Signal Integration** | RTL interfacing, analog/mixed-signal verification |
-| **EDA Tools**         | Cadence Virtuoso, Mentor, Synopsys |
-| **Scripting & Automation** | Tcl, Python |
-| **Process Technologies** | 28 nm – 7 nm nodes |
+With a Master's in *Information Systems* and certifications in **AWS Solutions Architecture** and **Oracle Java**, I thrive in Agile teams and CI/CD environments, utilizing tools like Jenkins, Kubernetes, and Terraform. My work integrates cloud-native patterns, modern DevOps practices, and high-performance backend logic to deliver reliable enterprise solutions.
 
 ---
 
-## 💼 Experience  
+## 🛠 Technical Skills
 
-### *Analog & Mixed‑Signal Layout Engineer | NVIDIA* — ~5 Years :contentReference[oaicite:2]{index=2}  
-- Designed and optimized analog layouts (PLLs, ADCs, DACs) in advanced CMOS nodes (7–28 nm).  
-- Coordinated with RTL, verification, and backend teams to ensure robust floorplanning and timing closure.  
-- Executed DRC/LVS checks and developed Python/Tcl scripts for layout automation and extraction workflows.
-
----
-
-## 🚀 Projects & Achievements *(add specifics if available)*  
-
-- **High‑Performance ADC Layout**: Enhanced matching and reduced noise floor, improving SNR by X%.  
-- **Low‑Power PLL Integration**: Implemented power-efficient PLL layout meeting tight design targets.  
-- **Automation & Flow Optimization**: Built scripts to automate parasitic extraction, reducing manual cycles by Y%.
-
----
-
-## 📬 Contact  
-
-📧 *Email:* [your.email@example.com](mailto:your.email@example.com)  
-🔗 *LinkedIn:* [gouru-mounika-b69642a7](https://www.linkedin.com/in/gouru-mounika-b69642a7)  
-💻 *GitHub:* [your-github](#) *(optional)*  
+| **Category**              | **Skills**                                                                 |
+| ------------------------- | -------------------------------------------------------------------------- |
+| **Languages**             | Java (J2EE 8/11/15), Python, SQL, JavaScript, HTML, XML, JSON, C++         |
+| **Frameworks**            | Spring Boot, Spring Cloud, Spring Batch, Hibernate, REST, Angular, React   |
+| **Java Tech**             | JSP, Servlet, JPA, JUnit                                                   |
+| **Databases**             | Oracle, MySQL, PostgreSQL, SQL Server, MongoDB, Redis, Cassandra, DynamoDB |
+| **DevOps/CI-CD**          | Jenkins, Kubernetes, Terraform, OpenShift, Git, Maven, Gradle, Bitbucket   |
+| **Cloud & Infra**         | AWS (EC2, S3, Lambda, API Gateway, Cognito, SQS, RDS), Azure               |
+| **Servers**               | Apache Tomcat, JBoss, WebSphere, WebLogic                                  |
+| **Monitoring Tools**      | Splunk, Dynatrace, Grafana                                                 |
+| **Development Practices** | Agile, Waterfall, Domain-Driven Design (DDD), TDD, BDD                     |
 
 ---
 
-> “Precision in layout delivers clarity in outcomes.”
+## 💼 Experience
+
+### 👨‍💻 Java Developer
+
+**Client: Wells Fargo**, Charlotte, NC
+🗓 *Jan 2024 – Present*
+
+* Developed a scalable **Automated Investment Advisory platform** using Java Spring Boot and Hibernate.
+* Migrated monolithic architecture to **microservices** using Apache Kafka and Spring Cloud.
+* Implemented **JWT/OAuth2** for secure authentication and ensured **PCI-DSS** and **GDPR** compliance.
+* Built **data pipelines with Apache Spark**, added **Apache Solr** for high-performance search, and automated workflows using Python.
+* Used **CI/CD** pipelines with Jenkins, Kubernetes, Terraform on **AWS infrastructure** (Lambda, EC2, S3, CloudWatch, SNS).
+
+**Key Tech:** Spring Boot, Hibernate, Apache Kafka, Spark, Solr, AWS, Jenkins, Kubernetes, Python, Terraform
 
 ---
 
-### ✅ Next Steps
+### 👨‍💻 Full-Stack Java Developer
 
-1. Please confirm your **contact email**, **GitHub link**, and **city**.  
-2. Add any **project names**, **metrics (% improvements)**, or notable achievements you'd like showcased.  
-3. I’ll update the README accordingly and finalize your profile. 😊
-::contentReference[oaicite:3]{index=3}
+**CMR Infotech Pvt Ltd**, India
+🗓 *Nov 2021 – Jun 2023*
+
+* Developed Java web apps using Spring MVC, Hibernate, and JSP.
+* Created RESTful and SOAP APIs; integrated third-party and legacy systems.
+* Improved performance via **caching**, **SQL tuning**, and responsive front-end design (HTML/CSS/JS).
+* Followed Agile and Waterfall methodologies with TDD/BDD practices.
+
+**Key Tech:** Spring MVC, Hibernate, JSP, REST, SOAP, SQL Server, Oracle, Agile, TDD
+
+---
+
+### 👩‍💻 Full-Stack Web Developer Intern
+
+**Squpus**, India
+🗓 *May 2020 – Dec 2020*
+
+* Gained foundational experience in Angular and modern front-end development patterns.
+
+---
+
+## 🎓 Education
+
+🎓 **Master’s Degree – Information Systems**
+*University of Memphis*
+
+🎓 **Bachelor’s Degree – Computer Science and Engineering**
+*Scient Institute of Technology*
+
+---
+
+## 🏅 Certifications
+
+* **AWS Certified Solutions Architect – Associate**
+* **Oracle Certified Java Developer**
+
+---
+
+## 📬 Contact
+
+📧 *Email:* [mounikag09876@gmail.com](mailto:mounikag09876@gmail.com)
+🔗 *LinkedIn: www.linkedin.com/in/mounikag123
+
+---
+
