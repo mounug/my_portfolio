@@ -3,7 +3,7 @@
 
 🎯 *Full‑Stack Java Developer* | ☁️ *AWS Certified Solutions Architect* | 🔁 *Microservices & DevOps Enthusiast*
 📍 Open to relocation | 📧 [mounikag09876@gmail.com](mailto:mounikag09876@gmail.com) | ☎️ 901‑902‑8869
-🔗 [LinkedIn](#) | [GitHub](#) *(optional)*
+🔗 www.linkedin.com/in/mounikag123
 
 ---
 
