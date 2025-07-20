@@ -1,6 +1,7 @@
 🌈 Hello, World!
 
-I’m not just a developer — I’m a digital architect crafting experiences that are fast, beautiful, and built to last. With 3+ years of full-stack development experience, I design apps like they’re art and engineer systems like they’re engines.
+I’ma passionate and results-driven Full-Stack Java Developer with over three years of hands-on experience building scalable, secure, and user-friendly applications. With a solid academic foundation—holding a Master’s in Information Systems from the University of Memphis—and industry certifications in AWS Solutions Architecture and Oracle Java Development, I thrive at the intersection of backend robustness and front-end finesse. I’ve architected microservices with Spring Boot, streamlined CI/CD pipelines using Jenkins and Kubernetes, and deployed resilient applications across cloud platforms like AWS and Azure. Whether optimizing performance with Apache Spark, building real-time services with Kafka, or ensuring data integrity under PCI-DSS and GDPR standards, I bring technical depth and agile adaptability to every challenge. From designing RESTful APIs and integrating legacy systems to mentoring teams and championing DevOps culture, my mission is simple: to deliver clean, scalable code that makes a difference. Let’s build something exceptional—together.
+
 
 Imagine tech that thinks ahead, reacts smartly, and feels intuitive — that’s the kind of work I do.
 
